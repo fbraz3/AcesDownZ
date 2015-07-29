@@ -1,0 +1,6 @@
+Modificações Desde a versão 1.0:
+-> Criação do arquivo temporario.
+-> Job para Zerar Downloads funcionando.
+-> Exibição do link no administrador quando o endereço era acessado sem a barra final.
+-> Filtro para evitar download quando nao estiver logado no forum.
+-> Paginação da página de logs agora funciona! =D
